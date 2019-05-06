@@ -9,7 +9,7 @@ This is a simple android app that shows the current phone location info and also
    3) Use Android API to get Network Provider location.
          locationManager.requestSingleUpdate(network_provider, this, null);
 
-2). Screen looks like this. 
+2). Screen looks like this - https://github.com/tejabhat/AndroidGPSLocation/blob/master/Screenshot_20190506-093715_MyLocation.jpg . 
 On Clicking the 'Get Location' button, it gets the current location(last updated location) and displays in the respective boxes.
 
 3).You can add the phone number (just numbers without + sign). I added a local mobile number without any country code. 
