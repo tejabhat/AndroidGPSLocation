@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15413372167",
+    "firebase_url": "https://mylocation-575cd.firebaseio.com",
+    "project_id": "mylocation-575cd",
+    "storage_bucket": "mylocation-575cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15413372167:android:cdb753165dc9ef1b",
+        "android_client_info": {
+          "package_name": "com.vandadike.mylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15413372167-8jtr5bu2gd9k690es6ctgook6q4rlerg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vandadike.mylocation",
+            "certificate_hash": "862056047ff115049fb002c7e341459a5e6728d5"
+          }
+        },
+        {
+          "client_id": "15413372167-num3keaan8k2lgtslv6561169ku07n1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZZh1xAZdCpqlExpIGO-FqPp1zU0ok7AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15413372167-num3keaan8k2lgtslv6561169ku07n1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
